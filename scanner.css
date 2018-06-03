@@ -1,0 +1,16 @@
+body{text-align:center} 
+.left{ float: left; width: 200px;}
+.right{ margin-left: 200px;}
+.right-title{ font-size: 4vw;}
+.count{font-size: 30px;color: #57ced2;border-bottom:2px solid #000} 
+.count-top{text-align: left;}
+.count-mid{font-size: 55px;}
+.count-down{text-align: right;margin-bottom: 10px;}
+.list{height:100%;margin-top: 10px;font-size: 20px;}
+.message{ position: relative; top: 150px; min-width: 500px;} 
+.message-name{font-size: 8vw;}
+.message-info{font-size: 10vw;}
+.Error{color: #ff0000;}
+.Pass{color: #008000;}
+.Manually{color: #ffa500;}
+.Repeat{color: #0000ff;}
